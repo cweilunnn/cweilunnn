@@ -1,5 +1,13 @@
 ## Hi there 👋
-
+我目前就讀於國立中興大學資訊管理學系碩士班一年級，學士是就讀於國立暨南國際大學資訊管理學系，
+我目前碩士做的研究是DeepLearning的影像辨識領域，練習Unet以及swin-Unet，
+成果連結：https://github.com/cweilunnn/PytorchUNet-pratice
+在大學時做的專題是在研究投資模擬的小系統，主要是用之前的年份的數據去回測使用者的投資策略，並給予指標，
+成果連結：https://github.com/cweilunnn/my-project
+也有修習軟體工程相關的課程上開發的分組購物車系統，
+課堂成果連結：https://github.com/cweilunnn/software-HW
+以及Linux的課程要我們做一個小專案，而我們小組做的是使用opencv做的一個互動式小遊戲，
+成果連結：https://github.com/cweilunnn/opencv_pygame_face_detection
 <!--
 **cweilunnn/cweilunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
